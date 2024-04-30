@@ -1,6 +1,6 @@
 # BigMart-Sales-Prediction-Analysis-Regression.-
 Libraries:
-pandas
+Pandas
 matplotlib
 seaborn
 scikit-learn 
